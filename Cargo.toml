@@ -1,0 +1,14 @@
+[package]
+
+name = "wave"
+version = "0.1.0"
+authors = [
+  "Koji"
+]
+
+[[bin]]
+name = "wave"
+
+[dependencies]
+piston_window = "*"
+piston2d-graphics = "0.14.0"
